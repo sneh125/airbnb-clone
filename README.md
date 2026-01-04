@@ -198,7 +198,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Your Name** - Sneh Prajapati, (https://twitter.com/yourusername) - your.email@example.com
+**Your Name** - Sneh Prajapati, (https://x.com/SnehPra56800471) - snehprajapati36@gmail.ccom
 
 Project Link: [https://github.com/yourusername/airbnb-clone](https://github.com/yourusername/airbnb-clone)
 
