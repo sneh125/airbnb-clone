@@ -200,7 +200,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name** - Sneh Prajapati, (https://x.com/SnehPra56800471) - snehprajapati36@gmail.ccom
 
-Project Link: [https://github.com/yourusername/airbnb-clone](https://github.com/yourusername/airbnb-clone)
+Project Link: https://github.com/sneh125/airbnb-clone.git
 
 ---
 
